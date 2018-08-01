@@ -1,4 +1,14 @@
-* {
-  margain: 3px;
-  padding: 5px;
+
+body {
+  color: #000000;
+  background-color: #455545;
+  font-family: "Times New Roman", serif;
+  text-align: left
+}
+
+#navigation {
+/*   background-image: url(""); */
+  margain: 2px;
+  padding: 1px;
+  position: fixed;
 }
